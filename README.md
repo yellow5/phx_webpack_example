@@ -1,3 +1,7 @@
+This app is an example to show what happens when JS is exported with webpack while JS is present in the assets/vendor/js directory.
+
+Supporting information is accessible in [this gist](https://gist.github.com/yellow5/a8ca58a416f55e9279a7b5aed7c0e8e7).
+
 # PhxWebpackExample
 
 To start your Phoenix server:
